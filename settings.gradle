@@ -1,0 +1,2 @@
+include ':app', ':open', ':toast_plugin'
+rootProject.name='DexLoadProject'
